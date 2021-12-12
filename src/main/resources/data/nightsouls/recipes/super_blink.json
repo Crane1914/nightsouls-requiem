@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BTB",
+    "BOB",
+    "BTB" 
+  ],
+  "key": {
+  
+    "O": {
+      "item": "nightsouls:blink"
+    },
+    
+    "T": {
+      "item": "nightsouls:true_night_soul"
+    },
+    
+    "B": {
+      "item": "nightsouls:bastirite_block"
+    }
+    
+  },
+  "result": {
+    "item": "nightsouls:super_blink"
+  }
+}
